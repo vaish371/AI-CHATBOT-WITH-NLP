@@ -46,3 +46,6 @@
                     Sentiment Analysis (more advanced NLTK use): Determining the emotional tone of text.
                     
               I have used gemini,AI,google patforms
+  *OUTPUT*
+
+  ![Image](https://github.com/user-attachments/assets/d411eac9-8f1a-486d-970e-3544287eeea5)
